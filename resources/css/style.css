@@ -1,0 +1,20 @@
+/* General styles*/
+html {
+  background-color: black;
+  text-align: center;
+  font-family: Verdana;
+}
+
+/* Element Specific setting */
+
+h1 {
+  font-weight: normal;
+  font-size: 50px;
+  color: white;
+  align-content: center;
+}
+
+a {
+  color: aquamarine;
+  font-size: 16px;
+}
