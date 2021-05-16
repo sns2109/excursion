@@ -13,8 +13,23 @@ h1 {
   color: white;
   align-content: center;
 }
+h3 {
+  font-weight: 300;
+  font-size: 42px;
+  color: white;
+}
 
 a {
   color: aquamarine;
   font-size: 16px;
+}
+footer p {
+  text-align: right;
+  color: gray;
+}
+
+/* class specific styles */
+.description {
+  font-size: 21px;
+  color: gray;
 }
